@@ -1,0 +1,28 @@
+html{
+margin: 20px;
+background: grey;
+
+}
+#head{
+
+	text-align: center;
+}
+
+
+.thumbnail {
+    float:left;
+    width: 200px;
+    margin-top: 15px;
+
+    
+
+}
+#box{
+background-color: blue;
+width: 390px;
+height: 260px;
+float: right;
+border: 5px solid black;
+margin-right: 15px; 
+    
+}
